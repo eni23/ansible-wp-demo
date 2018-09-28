@@ -20,7 +20,7 @@
       - name: wordpress_usr
         password: ywIapecJalg6
         priv: wordpress_db.*:ALL
-        host: '192.168.56.%'
+        host: '127.0.0.1'
   roles:
     - bertvv.mariadb
 

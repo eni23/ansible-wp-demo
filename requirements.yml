@@ -1,0 +1,4 @@
+---
+- src: bertvv.mariadb
+- src: bertvv.httpd
+- src: bertvv.wordpress
